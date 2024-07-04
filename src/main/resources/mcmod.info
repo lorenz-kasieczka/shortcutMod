@@ -1,0 +1,15 @@
+[
+{
+  "modid": "shortcuts",
+  "name": "Shortcuts",
+  "description": "Mod for chat shortcuts.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "updateUrl": "",
+  "authorList": ["Schnizel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
